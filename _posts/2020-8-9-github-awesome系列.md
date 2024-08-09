@@ -12,6 +12,8 @@ categories: 资源收集
 收集GitHub上面一些好的资源合集，待日后筛选整理使用
 
 
+<!--break-->
+
 # 绘图
 [awesome-ggplot2](https://github.com/erikgahner/awesome-ggplot2) A curated list of awesome ggplot2 tutorials, packages etc.
 
