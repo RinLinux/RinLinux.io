@@ -19,7 +19,7 @@ type: page
 ## 联系我
 
 * GitHub：[linzheng](https://github.com/linzhengmix)
-* Email: [gmail](mixfruitszu@gmail.com)
+* Email: mixfruitszu@gmail.com
 
 ## 友情链接
 
