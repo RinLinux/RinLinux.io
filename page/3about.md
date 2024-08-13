@@ -9,9 +9,10 @@ type: page
 * content
 {:toc}
 
-## 关于我
+## 我的笔记
 
-<!-- <iframe src="https://githubbadge.appspot.com/gaohaoyang?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe> -->
+* R notes: [rnotes](https://linzhengmix.github.io/r_notes/)
+
 
 
 
